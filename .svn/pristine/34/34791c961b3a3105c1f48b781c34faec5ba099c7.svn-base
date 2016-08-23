@@ -1,0 +1,14 @@
+##HBase&&MySQL DataLeading
+
+#MySQL's URL
+DATABASE_URL=jdbc\:mysql\://10.10.136.20\:3306?user\=credit&password\=IDC@axon&connectTimeout\=0&autoReconnect\=true&failOverReadOnly\=false&jdbcCompliantTruncation\=false&zeroDateTimeBehavior\=convertToNull
+
+#MYSQLtable name
+hostTableName=jiangsu.m_http_url_host_201604
+#hbase table name
+hbaseTableName=m_http_url_host_201604
+#column family
+cluomFamliy=c
+
+#Namespace of Hbase
+namespace=IDCTAG
